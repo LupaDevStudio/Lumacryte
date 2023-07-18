@@ -1,0 +1,13 @@
+
+*draft*
+__pycache__
+.coverage
+coverage.xml
+.buildozer
+venv
+audacity
+build
+*_test.*
+settings_agathe.json
+dist
+bin

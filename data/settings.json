@@ -1,0 +1,33 @@
+{
+    "keys": {
+        "top": "z",
+        "left": "q",
+        "bottom": "s",
+        "right": "d",
+        "INTERACT": "spacebar"
+    },
+    "high_score": 0,
+    "collection": {
+        "Agate": false,
+        "Amber": false,
+        "Aventurine": false,
+        "Amethyst": false,
+        "Azurite": false,
+        "Citrine": false,
+        "Diamond": false,
+        "Emerald": false,
+        "Fluorine": false,
+        "Garnet": false,
+        "Jade": false,
+        "Lapis lazuli": false,
+        "Malachite": false,
+        "Obsidian": false,
+        "Onyx": false,
+        "Opal": false,
+        "Rose quartz": false,
+        "Ruby": false,
+        "Sapphire": false,
+        "Tiger eye": false,
+        "Turquoise": false
+    }
+}

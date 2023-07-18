@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+pylint
+pylint-report
+Pillow
+kivy==2.1.0
