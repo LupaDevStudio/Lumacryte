@@ -1,26 +1,5 @@
 # Lumacryte
 
-*Version 1.0.0*
-
-## Table of contents
-
-- [Lumacryte](#lumacryte)
-  - [Table of contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Installation](#installation)
-    - [For users](#for-users)
-    - [For developers](#for-developers)
-      - [Cloning the repository](#cloning-the-repository)
-      - [Creation of a virtual environment](#creation-of-a-virtual-environment)
-      - [Installation of the necessary librairies](#installation-of-the-necessary-librairies)
-  - [Utilisation](#utilisation)
-  - [Development](#development)
-    - [Architecture of the project](#architecture-of-the-project)
-    - [Build for Windows](#build-for-windows)
-    - [Build for Android](#build-for-android)
-  - [Credits](#credits)
-  - [License](#license)
-
 ## Introduction
 
 This software is a game developed during the [Open Source AI Game Jam](https://itch.io/jam/open-source-ai-game-jam) from Hugging Face between the 7th and the 9th of July 2023.
